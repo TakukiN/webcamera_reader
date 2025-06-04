@@ -36,4 +36,12 @@ ENV/
 
 # Local development settings
 .env
-.env.local 
+.env.local
+
+# Generated images
+high_res_*.png
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp 
