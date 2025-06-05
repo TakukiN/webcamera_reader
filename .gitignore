@@ -1,3 +1,9 @@
+# Executable files
+*.exe
+*.dll
+*.so
+*.dylib
+
 # Python
 __pycache__/
 *.py[cod]
@@ -44,4 +50,8 @@ high_res_*.png
 *.jpg
 *.jpeg
 *.gif
-*.bmp 
+*.bmp
+
+# OS
+.DS_Store
+Thumbs.db 
